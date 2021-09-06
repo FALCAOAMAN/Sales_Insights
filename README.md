@@ -43,7 +43,7 @@
     table will be connected as a star and also called dimension table
 
 ## Visualzations
- [Tableau]( https://prod-apnortheast-a.online.tableau.com/#/site/amankumartableau/projects/158255?:origin=card_share_link)
+ Visualize the dashboards here : [Tableau]( https://prod-apnortheast-a.online.tableau.com/#/site/amankumartableau/projects/158255?:origin=card_share_link)
 
 
  
